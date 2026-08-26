@@ -1,0 +1,5 @@
+spa_sync.py
+requirements.txt
+run_spa_sync.bat
+_temp_*.jpg
+__pycache__/
